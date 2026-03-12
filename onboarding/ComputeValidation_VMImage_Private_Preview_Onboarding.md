@@ -208,7 +208,7 @@ and is the authoritative reference for:
 ### Swagger File
 
 - **OpenAPI (JSON)**:  
-  [`api/computevalidation.openapi.json`](./api/computevalidation.openapi.json)
+  [`api/computevalidation-selfserve.openapi.json`](./api/computevalidation-selfserve.openapi.json)
 
 - **REST API Reference (human-readable)**:  
   [`docs/rest-api/index.md`](./docs/rest-api/index.md)
