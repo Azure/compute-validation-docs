@@ -457,8 +457,8 @@ ARM does not allow delete/update while provisioning.
 
 **Requirements**
 - Azure Blob SAS URL only
-- Minimum 48h expiry
-- Recently support for Disk-generated SAS is added.
+- Minimum 48 hours expiry
+- Support for disk-generated SAS URLs was recently added.
 
 ---
 
